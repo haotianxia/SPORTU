@@ -212,13 +212,13 @@
     {
         "id": "Badminton_15",
         "question": "Why is it a rule violation in the video?",
-        "answer": "The player on the right side makes contact with the shuttle above the legal height during the serve.",
+        "answer": "The player in the red jersey makes contact with the shuttle above the legal height during the serve.",
         "difficulty level": "hard"
     },
     {
         "id": "Badminton_16",
         "question": "Why is it a rule violation in the video?",
-        "answer": "The player on the right side hits the shuttle too early before it crosses over to their side of the court.",
+        "answer": "The player on the right side strikes the shuttle by extending their racket over the net into the opponent's area during the shot.",
         "difficulty level": "hard"
     },
     {
@@ -296,13 +296,13 @@
     {
         "id": "Badminton_29",
         "question": "Why is it a rule violation in the video?",
-        "answer": "The player on the right side touches the net with their racket during the shot.",
+        "answer": "The player on the right side proforms a lift.",
         "difficulty level": "hard"
     },
     {
         "id": "Badminton_36",
         "question": "Why is it a rule violation in the video?",
-        "answer": "The player on the right side strikes the shuttle by extending their racket over the net into the opponent's area during the shot.",
+        "answer": "The player on the right side touches the net with his racket during the shot.",
         "difficulty level": "hard"
     },
     {
@@ -324,12 +324,6 @@
         "difficulty level": "hard"
     },
     {
-        "id": "Badminton_59",
-        "question": "Why is it a rule violation in the video?",
-        "answer": "The player on the left side strikes the shuttle by extending their racket over the net into the opponent's area during the shot.",
-        "difficulty level": "hard"
-    },
-    {
         "id": "Badminton_63",
         "question": "Why is it a rule violation in the video?",
         "answer": "The player on the left side makes contact with the shuttle above the legal height during the serve.",
@@ -345,12 +339,6 @@
         "id": "Badminton_33",
         "question": "How is the player making a technical error in the video?",
         "answer": "The player in the blue jersey hits the shuttle into the net.",
-        "difficulty level": "hard"
-    },
-    {
-        "id": "Badminton_34",
-        "question": "How is the player making a technical error in the video?",
-        "answer": "The player in the red jersey hits the shuttle out of bounds.",
         "difficulty level": "hard"
     },
     {
@@ -3596,7 +3584,7 @@
     {
         "id": "soccer_241",
         "question": "Why is it not a foul in the video?",
-        "answer": "player in yellow jersey left hand handball, but hand / arm in natural position",
+        "answer": "player in black jersey left hand handball, but hand / arm in natural position",
         "difficulty level": "hard"
     },
     {
@@ -5306,61 +5294,61 @@
     {
         "id": "hockey_38_0",
         "question": "Why is it a foul in the video?",
-        "answer": "black jersey player hits white jersey player on the penis with hockey stick",
+        "answer": "black jersey player hits white jersey player on the crotch area with hockey stick",
         "difficulty level": "hard"
     },
     {
         "id": "hockey_38_1",
         "question": "Why is it a foul in the video?",
-        "answer": "black jersey player hits white jersey player on the penis with hockey stick",
+        "answer": "black jersey player hits white jersey player on the crotch area with hockey stick",
         "difficulty level": "hard"
     },
     {
         "id": "hockey_38_2",
         "question": "Why is it a foul in the video?",
-        "answer": "black jersey player hits white jersey player on the penis with hockey stick",
+        "answer": "black jersey player hits white jersey player on the crotch area with hockey stick",
         "difficulty level": "hard"
     },
     {
         "id": "hockey_39_1",
         "question": "Why is it a foul in the video?",
-        "answer": "black jersey player hits white jersey player on the penis with hockey stick",
+        "answer": "black jersey player hits white jersey player on the crotch area with hockey stick",
         "difficulty level": "hard"
     },
     {
         "id": "hockey_40_0",
         "question": "Why is it a foul in the video?",
-        "answer": "white and yellowjersey player hits black jersey player on the penis with hockey stick",
+        "answer": "white and yellowjersey player hits black jersey player on the crotch area with hockey stick",
         "difficulty level": "hard"
     },
     {
         "id": "hockey_40_1",
         "question": "Why is it a foul in the video?",
-        "answer": "white and yellowjersey player hits black jersey player on the penis with hockey stick",
+        "answer": "white and yellowjersey player hits black jersey player on the crotch area with hockey stick",
         "difficulty level": "hard"
     },
     {
         "id": "hockey_40_2",
         "question": "Why is it a foul in the video?",
-        "answer": "white and yellowjersey player hits black jersey player on the penis with hockey stick",
+        "answer": "white and yellowjersey player hits black jersey player on the crotch area with hockey stick",
         "difficulty level": "hard"
     },
     {
         "id": "hockey_41_0",
         "question": "Why is it a foul in the video?",
-        "answer": "blue jersey player hits white jersye player on the penis with hockey stick",
+        "answer": "blue jersey player hits white jersye player on the crotch area with hockey stick",
         "difficulty level": "hard"
     },
     {
         "id": "hockey_41_1",
         "question": "Why is it a foul in the video?",
-        "answer": "blue jersey player hits white jersye player on the penis with hockey stick",
+        "answer": "blue jersey player hits white jersye player on the crotch area with hockey stick",
         "difficulty level": "hard"
     },
     {
         "id": "hockey_41_2",
         "question": "Why is it a foul in the video?",
-        "answer": "blue jersey player hits white jersye player on the penis with hockey stick",
+        "answer": "blue jersey player hits white jersye player on the crotch area with hockey stick",
         "difficulty level": "hard"
     },
     {
