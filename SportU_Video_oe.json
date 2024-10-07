@@ -3824,7 +3824,7 @@
     {
         "id": "american_football_25",
         "question": "Why is it an error in the video?",
-        "answer": "player in red escapes a tackle from the player in white by outrunning",
+        "answer": "player in white escapes a tackle from the player in red by outrunning",
         "difficulty level": "hard"
     },
     {
@@ -4520,13 +4520,13 @@
     {
         "id": "american_football_46",
         "question": "Why is it a foul in the video?",
-        "answer": "player in blue and white have their arms crossed into eachother resulting in no catches in the play",
+        "answer": "player in black and white have their arms crossed into eachother resulting in no catches in the play",
         "difficulty level": "hard"
     },
     {
         "id": "american_football_47",
         "question": "Why is it a foul in the video?",
-        "answer": "player in white holds onto the left elbow of the player in blue",
+        "answer": "player in white holds onto the left elbow of the player in black",
         "difficulty level": "hard"
     },
     {
@@ -5798,7 +5798,7 @@
     {
         "id": "Basketball_3",
         "question": "Why is it a foul in the video?",
-        "answer": "The defender's left foot stepped on the shooter\u2019s left foot, and the defender\u2019s right arm hit the shooter\u2019s right side of the neck.",
+        "answer": "The defender blocked the offensive player's movement with their body and right leg.",
         "difficulty level": "hard"
     },
     {
@@ -5810,7 +5810,7 @@
     {
         "id": "Basketball_5",
         "question": "Why is it a foul in the video?",
-        "answer": "A player elbowed the offensive player in the front of the waist with their right elbow.",
+        "answer": "A player blocked the offensive player with their body and then pushed them with their forearm.",
         "difficulty level": "hard"
     },
     {
@@ -5822,7 +5822,7 @@
     {
         "id": "Basketball_8",
         "question": "Why is it a foul in the video?",
-        "answer": "One player grabbed the collar of another player's shirt with both hands in a bear hug, causing the player in the black jersey to fall.",
+        "answer": "The player in the white jersey hit the opponent with both hands in a bear hug, causing the player in the black jersey to fall.",
         "difficulty level": "hard"
     },
     {
@@ -5948,19 +5948,19 @@
     {
         "id": "Basketball_25",
         "question": "Why is it a foul in the video?",
-        "answer": "The defender struck the offensive player's chin with their shoulder and pushed them out of bounds.",
+        "answer": "The defender moved into the offensive player's way to block them and then pushed them out of bounds with their forearm.",
         "difficulty level": "hard"
     },
     {
         "id": "Basketball_26_0",
         "question": "Why is it a foul in the video?",
-        "answer": "The player in the purple and yellow jersey elbowed the shooting player in white in their right armpit.",
+        "answer": "The player in the purple and yellow jersey hit the shooting player in white with their forearm in their right armpit.",
         "difficulty level": "hard"
     },
     {
         "id": "Basketball_26_2",
         "question": "Why is it a foul in the video?",
-        "answer": "The player in the purple and yellow jersey elbowed the shooting player in white in their right armpit.",
+        "answer": "The player in the purple and yellow jersey hit the shooting player in white with their forearm in their right armpit.",
         "difficulty level": "hard"
     },
     {
@@ -6026,25 +6026,25 @@
     {
         "id": "Basketball_33",
         "question": "Why is it a foul in the video?",
-        "answer": "The player in black hooked and struck the right shoulder of the red jersey player who was attempting a layup with his right hand.",
+        "answer": "The player in black struck and held down the right shoulder of the red jersey player who was attempting a layup with his right hand.",
         "difficulty level": "hard"
     },
     {
         "id": "Basketball_34",
         "question": "Why is it a foul in the video?",
-        "answer": "The player in black hooked and struck the left shoulder of the white jersey player who was attempting a layup with their left hand, then pulled back, causing the white jersey player to fall.",
+        "answer": "The player in black struck and grabbed the left shoulder of the white jersey player who was attempting a layup with their left hand, then pulled back, causing the white jersey player to fall.",
         "difficulty level": "hard"
     },
     {
         "id": "Basketball_35",
         "question": "Why is it a foul in the video?",
-        "answer": "The player in black elbowed and pushed the shooting player in white to the left with his left arm",
+        "answer": "The player in black pushed the shooting player in white to the left with his left arm.",
         "difficulty level": "hard"
     },
     {
         "id": "Basketball_36",
         "question": "Why is it a foul in the video?",
-        "answer": "The running player in deep blue elbowed the running ball handler with their left elbow, causing the fouled player to go out of bounds.",
+        "answer": "The running player in the dark blue jersey pushed the running ball handler in the red and yellow jersey with their left elbow, causing the fouled player to go out of bounds.",
         "difficulty level": "hard"
     },
     {
@@ -6104,7 +6104,7 @@
     {
         "id": "Basketball_44",
         "question": "Why is it a foul in the video?",
-        "answer": "The player in green and the player in white pulled on each other back-to-back, and the player in green ended up falling.",
+        "answer": "The player in green reached his arm around the player in white's body and the player in white rotated with the player in green's arm stuck under their arm, and the player in green ended up falling.",
         "difficulty level": "hard"
     },
     {
@@ -6116,25 +6116,25 @@
     {
         "id": "Basketball_46",
         "question": "Why is it a foul in the video?",
-        "answer": "The defender in black touched the chin and face of the shooting player in yellow with their right hand, causing the yellow player to fall.",
+        "answer": "The defender in black hit the chin and face of the shooting player in yellow with their right hand, causing the yellow player to fall.",
         "difficulty level": "hard"
     },
     {
         "id": "Basketball_47",
         "question": "Why is it a foul in the video?",
-        "answer": "As the player in red jumped and landed, their right foot stepped on the right shoulder of one black jersey player and their left foot stepped on the left shoulder of another black jersey player lying on the ground.",
+        "answer": "As the player in red fell, their right foot stepped on the right shoulder of one black jersey player and their left foot stepped on the left shoulder of another black jersey player lying on the ground.",
         "difficulty level": "hard"
     },
     {
         "id": "Basketball_48",
         "question": "Why is it a foul in the video?",
-        "answer": "After jumping, the player in black used their left hand to cover the entire face of the shooting player from behind.",
+        "answer": "After jumping, the player in black used their left hand to grab and cover the entire face of the shooting player from behind.",
         "difficulty level": "hard"
     },
     {
         "id": "Basketball_49",
         "question": "Why is it a foul in the video?",
-        "answer": "The player in red and blue lifted their right arm to block the running player in white, causing them to fall.",
+        "answer": "The player in red and blue moved and lifted their right arm to block the running player in white, causing them to fall.",
         "difficulty level": "hard"
     },
     {
@@ -6146,19 +6146,19 @@
     {
         "id": "Basketball_51_0",
         "question": "Why is it a foul in the video?",
-        "answer": "The player in red hits the player in blue with the ball with his right side of his body at the waist and stomach.",
+        "answer": "The player in red blocks the player in blue with the ball with his right side of his body.",
         "difficulty level": "hard"
     },
     {
         "id": "Basketball_51_1",
         "question": "Why is it a foul in the video?",
-        "answer": "The player in red hits the player in blue with the ball with his right side of his body at the waist and stomach.",
+        "answer": "The player in red blocks the player in blue with the ball with his right side of his body.",
         "difficulty level": "hard"
     },
     {
         "id": "Basketball_52",
         "question": "Why is it a foul in the video?",
-        "answer": "The white player stepped on the chest of the black player, who was already on the ground, with his right foot.",
+        "answer": "The white player stepped on the chest of the black player, who was already on the ground, with his right foot and then jumps off of him.",
         "difficulty level": "hard"
     },
     {
@@ -6170,19 +6170,19 @@
     {
         "id": "Basketball_54",
         "question": "Why is it a foul in the video?",
-        "answer": "The player in white hit the face of the player in black with their left hand during a backward swing.",
+        "answer": "The player in white tripped the player in black by placing their foot underneath where the player in black landed after the shot.",
         "difficulty level": "hard"
     },
     {
         "id": "Basketball_55_0",
         "question": "Why is it a foul in the video?",
-        "answer": "The player in blue grabbed the collar of the player in white with their left hand, causing them to fall.",
+        "answer": "The player in blue hit the player in white's head and then grabbed the collar of the player in white with their left hand, causing them to fall.",
         "difficulty level": "hard"
     },
     {
         "id": "Basketball_55_1",
         "question": "Why is it a foul in the video?",
-        "answer": "The player in blue grabbed the collar of the player in white with their left hand, causing them to fall.",
+        "answer": "The player in blue hit the player in white's head and then grabbed the collar of the player in white with their left hand, causing them to fall.",
         "difficulty level": "hard"
     },
     {
@@ -6200,61 +6200,73 @@
     {
         "id": "Basketball_58",
         "question": "Why is it a foul in the video?",
-        "answer": "The white defender puts his arms around the purple player's neck and falls down with him.",
+        "answer": "The white defender puts his arms around the purple player's neck and pulls him down.",
         "difficulty level": "hard"
     },
     {
         "id": "Basketball_60",
         "question": "Why is it a foul in the video?",
-        "answer": "The black defender hit the right arm of the red player, who was shooting, with his right arm and caused the red player to fall.",
+        "answer": "The black defender hit the right arm of the red player, who was shooting, with his right arm while attempting to grab the ball and caused the red player to fall.",
         "difficulty level": "hard"
     },
     {
         "id": "Basketball_61",
         "question": "Why is it a foul in the video?",
-        "answer": "The defender in black hit the face of the offensive player in white with their hand and then wrapped both arms around the white player.",
+        "answer": "The defender in black reached their right arm across the body of the white player while attempting to grab the ball.",
+        "difficulty level": "hard"
+    },
+    {
+        "id": "Basketball_62_0",
+        "question": "Why is it a foul in the video?",
+        "answer": "When the purple player puts the basketball against her stomach, the white player located on the right side reaches in and makes contact with the purple player's arm when grabbing the ball",
+        "difficulty level": "hard"
+    },
+    {
+        "id": "Basketball_62_1",
+        "question": "Why is it a foul in the video?",
+        "answer": "When the purple player puts the basketball against her stomach, the white player located on the right side reaches in and makes contact with the purple player's arm when grabbing the ball",
         "difficulty level": "hard"
     },
     {
         "id": "Basketball_63_0",
         "question": "Why is it a foul in the video?",
-        "answer": "White defenseman riding on top of already downed black player",
+        "answer": "White defensive player falls on top of an already downed black player",
         "difficulty level": "hard"
     },
     {
         "id": "Basketball_63_1",
         "question": "Why is it a foul in the video?",
-        "answer": "White defenseman riding on top of already downed black player",
+        "answer": "White defensive player falls on top of an already downed black player",
         "difficulty level": "hard"
     },
     {
         "id": "Basketball_64",
         "question": "Why is it a foul in the video?",
-        "answer": "The red and white players kicked the black players with their feet.",
+        "answer": "The red and white player kicked the black player with their feet.",
         "difficulty level": "hard"
     },
     {
         "id": "Basketball_65_0",
         "question": "Why is it a foul in the video?",
-        "answer": "The white defender hooks the black player with his right foot and puts his hands around his neck to grab the ball.",
+        "answer": "The white defender puts her arms around the black player's neck to grab the ball.",
         "difficulty level": "hard"
     },
     {
         "id": "Basketball_65_1",
         "question": "Why is it a foul in the video?",
-        "answer": "The white defender hooks the black player with his right foot and puts his hands around his neck to grab the ball.",
+        "answer": "The white defender puts her arms around the black player's neck to grab the ball.",
         "difficulty level": "hard"
     },
     {
         "id": "Basketball_66_0",
         "question": "Why is it a foul in the video?",
-        "answer": "The player in yellow pushes the opponent's defender in red from the side with his right hand as he backs up.",
+        "answer": "The player in yellow pushes the offensive player in red who has set a screen on them from the side with his right hand as he backs up.",
         "difficulty level": "hard"
     },
     {
         "id": "Basketball_66_1",
         "question": "Why is it a foul in the video?",
-        "answer": "The player in yellow pushes the opponent's defender in red from the side with his right hand as he backs up.",
+        "answer": "The player in yellow pushes the offensive player in red who has set a screen on them from the side with his right hand as he backs up.",
         "difficulty level": "hard"
     },
     {
@@ -6278,7 +6290,7 @@
     {
         "id": "Basketball_70",
         "question": "Why is it a foul in the video?",
-        "answer": "The blue player grabbed the white player by the collar of his right shoulder and spun him around to drop him.",
+        "answer": "The blue player grabbed the white player by the collar of his right shoulder and spun him around to throw him.",
         "difficulty level": "hard"
     },
     {
@@ -6302,7 +6314,7 @@
     {
         "id": "Basketball_73",
         "question": "Why is it a foul in the video?",
-        "answer": "The white player hit the black player in the back with his left shoulder and body and caused him to fall down.",
+        "answer": "The white player hit and pushed the black player in the back with his left shoulder and body and caused him to fall down.",
         "difficulty level": "hard"
     },
     {
@@ -6314,7 +6326,7 @@
     {
         "id": "Basketball_75",
         "question": "Why is it a foul in the video?",
-        "answer": "White defender pushes black defender out of bounds with right elbow",
+        "answer": "White defender pushes black defender out of bounds with right arm during a rebound attempt.",
         "difficulty level": "hard"
     },
     {
@@ -6326,19 +6338,19 @@
     {
         "id": "Basketball_77",
         "question": "Why is it a foul in the video?",
-        "answer": "The black player pushed the white player down with both hands and went out of bounds",
+        "answer": "The black player purposefully pushed the white player down with both hands without attempting to play the ball and the white player went out of bounds.",
         "difficulty level": "hard"
     },
     {
         "id": "Basketball_78",
         "question": "Why is it a foul in the video?",
-        "answer": "The player in the red jersey hits the big arm of the shooting player with his right hand in the course of defense",
+        "answer": "The player in the red jersey hits the right arm of the shooting player with his right hand while attempting to defend the shot.",
         "difficulty level": "hard"
     },
     {
         "id": "Basketball_79",
         "question": "Why is it a foul in the video?",
-        "answer": "The player in blue elbowed the opposing player in white in the chest.",
+        "answer": "The player in blue slams their shoulder and arm into the opposing player in white in the chest.",
         "difficulty level": "hard"
     },
     {
@@ -6350,7 +6362,7 @@
     {
         "id": "Basketball_81",
         "question": "Why is it a foul in the video?",
-        "answer": "The player in the black jersey kneels, then lifts his right arm to hit the sentive area of the white jesersey player, and takes down the player in the white jersey.",
+        "answer": "The player in the black jersey kneels, then lifts his right leg to trip the white jersey player with the ball.",
         "difficulty level": "hard"
     },
     {
@@ -6362,13 +6374,13 @@
     {
         "id": "Basketball_85_0",
         "question": "Why is it a foul in the video?",
-        "answer": "The player in green jersey holds the ball with both hands and changes steps from left to right.",
+        "answer": "The player in green jersey holds the ball with both hands and takes 3 steps before dribbling the ball.",
         "difficulty level": "hard"
     },
     {
         "id": "Basketball_85_1",
         "question": "Why is it a foul in the video?",
-        "answer": "The player in green jersey holds the ball with both hands and changes steps from left to right.",
+        "answer": "The player in green jersey holds the ball with both hands and takes 3 steps before dribbling the ball.",
         "difficulty level": "hard"
     },
     {
@@ -6386,7 +6398,7 @@
     {
         "id": "Basketball_103",
         "question": "Why is it a foul in the video?",
-        "answer": "The player in the gray fall jersey struck the player in the white jersey on the left side of the jaw with a right elbow",
+        "answer": "The player in the gray fall jersey pushed the player in the white jersey on the left side of the jaw with the right elbow and forearm",
         "difficulty level": "hard"
     },
     {
@@ -6440,13 +6452,13 @@
     {
         "id": "Basketball_111",
         "question": "Why is it a foul in the video?",
-        "answer": "The player in the black jersey raised his right foot to block the right foot of the player in the white jersey causing the white player to fall.",
+        "answer": "The player in the black jersey kicks the player in the white jersey's leg causing the white player to fall.",
         "difficulty level": "hard"
     },
     {
         "id": "Basketball_112",
         "question": "Why is it a foul in the video?",
-        "answer": "The white player physically pushes the black player forward and causes him to fall into touch.",
+        "answer": "The white player gently guides the black player forward and out of bounds with his hands.",
         "difficulty level": "hard"
     },
     {
