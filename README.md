@@ -4,7 +4,7 @@
 The SPORTU-text dataset can be accessed through the SportU_text.json.
 
 ## SPORTU-video
-The SPORTU-video dataset QUESTION part can be accessed through the SPORTU-Video json.
+The SPORTU-video dataset QUESTION part can be accessed through the SPORTU-Video json files.
 - Multiple Choice Questions: SportU_Video_mc.json
 - Open-ended Questions: SportU_Video_oe.json
 
