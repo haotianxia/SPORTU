@@ -3,7 +3,7 @@ Haotian Xia<sup>1,2</sup>, Zhengbang Yang<sup>3</sup>, Junbo Zou<sup>2</sup>, Rh
 
 <sup>1</sup>Rice University, <sup>2</sup>University of California, Irvine, <sup>3</sup>George Mason University, <sup>4</sup>University of California, Santa Barbara, <sup>5</sup>Stanford University
 
-[![ArXiv](https://img.shields.io/badge/2410.08474)](https://arxiv.org/abs/2410.08474)
+[![ArXiv](https://img.shields.io/badge/arXiv-2410.08474-red)](https://arxiv.org/abs/2410.08474)
 
 
 ![paper](image/pic_fi.png)
