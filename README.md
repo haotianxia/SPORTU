@@ -1,5 +1,5 @@
 # SPORTU: A Comprehensive Sports Understanding Benchmark for Multimodal Large Language Models
-
+Haotian Xia^1, Zhengbang Yang, Junbo Zou, Rhys Tracy, Yuqing Wang, Chi Lu, Christopher Lai, Yanjun He, Xun Shao, Zhuoqing Xie, Yuan-fang Wang, Weining Shen, Hanjie Chen
 
 ## SPORTU-text
 The SPORTU-text dataset can be accessed through the SportU_text.json.
