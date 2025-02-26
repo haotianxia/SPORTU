@@ -1,4 +1,5 @@
-# Dataset For SPORTU Benchmark
+# SPORTU: A Comprehensive Sports Understanding Benchmark for Multimodal Large Language Models
+
 
 ## SPORTU-text
 The SPORTU-text dataset can be accessed through the SportU_text.json.
