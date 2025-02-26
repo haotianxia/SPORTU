@@ -1,5 +1,7 @@
 # SPORTU: A Comprehensive Sports Understanding Benchmark for Multimodal Large Language Models
-Haotian Xia^1, Zhengbang Yang, Junbo Zou, Rhys Tracy, Yuqing Wang, Chi Lu, Christopher Lai, Yanjun He, Xun Shao, Zhuoqing Xie, Yuan-fang Wang, Weining Shen, Hanjie Chen
+Haotian Xia<sup>1,2</sup>, Zhengbang Yang<sup>3</sup>, Junbo Zou<sup>2</sup>, Rhys Tracy<sup>4</sup>, Yuqing Wang<sup>5</sup>, Chi Lu<sup>2</sup>, Christopher Lai<sup>4</sup>, Yanjun He<sup>2</sup>, Xun Shao<sup>2</sup>, Zhuoqing Xie<sup>4</sup>, Yuan-fang Wang<sup>5</sup>, Weining Shen<sup>2</sup>, Hanjie Chen<sup>1</sup>
+
+<sup>1</sup>Rice University, <sup>2</sup>University of California, Irvine, <sup>3</sup>George Mason University, <sup>4</sup>University of California, Santa Barbara, <sup>5</sup>Stanford University
 
 ## SPORTU-text
 The SPORTU-text dataset can be accessed through the SportU_text.json.
