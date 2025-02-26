@@ -3,6 +3,8 @@ Haotian Xia<sup>1,2</sup>, Zhengbang Yang<sup>3</sup>, Junbo Zou<sup>2</sup>, Rh
 
 <sup>1</sup>Rice University, <sup>2</sup>University of California, Irvine, <sup>3</sup>George Mason University, <sup>4</sup>University of California, Santa Barbara, <sup>5</sup>Stanford University
 
+
+
 ## SPORTU-text
 The SPORTU-text dataset can be accessed through the SportU_text.json.
 
