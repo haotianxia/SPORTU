@@ -19,3 +19,14 @@ The SPORTU-video dataset QUESTION part can be accessed through the SPORTU-Video 
 The videos for the questions can be accessed via the following link. They are organized by sports category and provided in zip files. Please click the link or copy and paste it to access the videos.
 
 https://drive.google.com/drive/folders/1nvA8gqF32lrhqzhbJ2r39-TwwW5tEvsu?usp=sharing
+
+
+## **Citation**
+
+```bibtex
+@article{xia2024sportu,
+  title={Sportu: A comprehensive sports understanding benchmark for multimodal large language models},
+  author={Xia, Haotian and Yang, Zhengbang and Zou, Junbo and Tracy, Rhys and Wang, Yuqing and Lu, Chi and Lai, Christopher and He, Yanjun and Shao, Xun and Xie, Zhuoqing and others},
+  journal={arXiv preprint arXiv:2410.08474},
+  year={2024}
+}
